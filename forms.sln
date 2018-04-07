@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "forms", "forms\forms.shproj", "{5931DAD3-1982-4372-8777-C4C85ECA7D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forms.iOS", "iOS\forms.iOS.csproj", "{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forms.mac", "forms.mac\forms.mac.csproj", "{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Release|iPhone.Build.0 = Release|iPhone
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6B6E123B-B5C6-46E4-96D1-91CCDC9C005F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Release|iPhone.ActiveCfg = Release|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Release|iPhone.Build.0 = Release|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Debug|iPhone.ActiveCfg = Debug|iPhoneSimulator
+		{BD30B4A3-1BCC-49C6-9AF3-80434D5135BA}.Debug|iPhone.Build.0 = Debug|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal
